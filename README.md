@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./doc/images/crocoddyl_logo.png" width="800" alt="Crocoddyl Logo" align="center"/>
 </p>
@@ -14,6 +13,8 @@
 <!-- <a href="https://github.com/loco-3d/crocoddyl/graphs/contributors"><img src="https://img.shields.io/github/contributors/loco-3d/crocoddyl"> -->
 <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black" /></a>
 </p>
+
+# # We fork Crocoddyl at 16:00 07/24/2024 to compare its performance with [RAPTOR](https://github.com/roahmlab/RAPTOR)
 
 ## <img align="center" height="20" src="https://i.imgur.com/vAYeCzC.png"/> Introduction
 
